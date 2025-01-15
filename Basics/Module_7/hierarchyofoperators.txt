@@ -1,0 +1,9 @@
+int i = 2 * 3 / 4 ;
+ in this computation first the computer will do the multiplication then it will do the division 
+
+
+
+in java it follows the BODMAS rule where 
+b=brackets gets first priority
+D,M= division and multiplication is in a same level 
+but it solves the in a left to right direction 
